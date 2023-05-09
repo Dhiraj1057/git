@@ -4,3 +4,5 @@ git init
     commit -m "whatever you want to type a message"
     log
     add .
+    diff file
+    checkout file
