@@ -1,3 +1,6 @@
 git init
     status
     add file
+    commit -m "whatever you want to type a message"
+    log
+    add .
